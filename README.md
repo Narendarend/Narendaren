@@ -102,26 +102,15 @@
         <div id="skills" class="section">
             <h2>Skills</h2>
             <ul>
-                <li>CyberSecurity</li>
-                <li>Internet of Things</li>
-                <li>Cloud Computing</li>
                 <li>Python</li>
-                <li>IBM Cloud</li>
-                <li>ML & AI</li>
                 <li>Java</li>
-                <li>Blockchain</li>
-                <li>C++</li>
-                <li>JavaScript</li>
             </ul>
         </div>
 
         <div id="projects" class="section">
             <h2>Projects</h2>
             <ul>
-                <li><a href="#">AI-Based Alternator Control System</a></li>
-                <li><a href="#">Cloud Security IBM</a></li>
-                <li><a href="#">IBM Chatbot</a></li>
-                <li><a href="#">Chatbot</a></li>
+                <li><a href="#">Portfolio</li>
             </ul>
         </div>
 
