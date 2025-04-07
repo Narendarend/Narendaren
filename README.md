@@ -75,8 +75,8 @@
 <body>
 
     <header>
-        <h1>Naredaren D</h1>
-        <p>An Student</p>
+        <h1>Narendaran D</h1>
+        <p>A Student</p>
     </header>
 
     <nav>
@@ -110,7 +110,7 @@
         <div id="projects" class="section">
             <h2>Projects</h2>
             <ul>
-                <li><a href="#">Portfolio</li>
+                <li><a href="#">Portfolio</a></li>
             </ul>
         </div>
 
@@ -122,7 +122,7 @@
     </div>
 
     <div class="footer">
-        &copy; Narendaren D
+        &copy; Narendaran D
     </div>
 
 </body>
