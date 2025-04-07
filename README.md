@@ -91,12 +91,12 @@
         
         <div id="about" class="section">
             <h2>About Me</h2>
-            <p>I'm a <strong>cyber security</strong> expert and technology enthusiast passionate about helping organizations protect their data. With over 7 years of experience, I stay updated with the latest trends in cybersecurity and online security.</p>
+            <p>I'm a <strong>Data Science</strong> undergraduate graduate and technology enthusiast, passionate about leveraging data to drive insights and solutions. Currently, I am continuing my studies to deepen my knowledge and expertise in the field. With a strong interest in data analytics, machine learning, and cybersecurity, I stay updated with the latest trends and advancements in technology.</p>
         </div>
 
         <div id="education" class="section">
             <h2>Education</h2>
-            <p><strong>Madras University</strong> - Data Science Student</p>
+            <p><strong>Madras University</strong> - Data Science UG Graduate</p>
         </div>
 
         <div id="skills" class="section">
